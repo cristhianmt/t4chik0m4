@@ -1,7 +1,7 @@
 <h1>
 </h1>
 <h1 align="center">
-<b> Hi, I'm Cristhian <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy.gif" width="30" alt="GIF">
+<b> Hi, I'm Cristhian <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif" width="30" alt="GIF">
 </h1>
 
 <br>
@@ -10,7 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student&font=Fira%20Code&center=true&width=380&height=50&color=0EF7F7">
 </p>
 
-
+<p align="center">
+  <img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif">
+</p>
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
 
