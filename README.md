@@ -47,12 +47,12 @@
 <br>
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=gotham"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=github_dark"/>
   </a>
 <br>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=gotham"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=github_dark"/>
   </a>
 </p>
 
