@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <abc>
-  <br><hr><b> Hi, there! <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif" width="30" alt="GIF">
+  <br><b> Hi, there! <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif" width="30" alt="GIF">
 </abc>
 </h1>
 <br>
@@ -15,7 +15,7 @@
 </p>
 <be>
 
-<h2 align="left"> <hr><img src="https://media.giphy.com/media/f4UxNndPLPiMArnqNB/giphy.gif" width="50" alt="GIF">
+<h2 align="left"> <hr><img src="https://media.giphy.com/media/f4UxNndPLPiMArnqNB/giphy.gif" width="60" alt="GIF">
 <b> Technologies and Tools I use: </b>
 <hr>
 </h2>
@@ -31,7 +31,7 @@
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="images/vmware.png" alt="vmware" width="50" height="50"/> </a>
 </p>
 <br>
-<h2 align="left"><hr><img src="https://media.giphy.com/media/XHLtoiM5aKEuEqFjIe/giphy.gif" width="50" alt="GIF"><b> About Me: </b>
+<h2 align="left"><hr><img src="https://media.giphy.com/media/XHLtoiM5aKEuEqFjIe/giphy.gif" width="60" alt="GIF"><b> About Me: </b>
 <hr>
 </h2>
 
@@ -49,11 +49,12 @@
 <br>
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=codeSTACKr"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=gotham"/>
   </a>
 <br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=codeSTACKr"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=gotham"/>
   </a>
 </p>
 
