@@ -9,19 +9,16 @@
 </p>
 
 
-
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
 
 
-<img src="https://media.giphy.com/media/QDuSrzmQeDtL2/giphy.gif" width="40" alt="GIF"><b> Working on my [Personal Blog](https://cristhianmt.github.io)<b>
+<img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="40" alt="GIF"><b> Working on my [Personal Blog](https://cristhianmt.github.io)<b>
 <br>
 
-<img src="https://media.giphy.com/media/0WABT32le2hYl4oCqZ/giphy.gif" width="30" alt="GIF"><b> I’m currently practicing CTF Challenge on [TryHackMe](https://tryhackme.com/p/Bl34k)<b>
+<img src="https://media.giphy.com/media/yKKMaXHvwXoATvXUls/giphy-downsized-large.gif" width="40" alt="GIF"><b> I’m currently practicing CTF Challenge on [TryHackMe](https://tryhackme.com/p/Bl34k)<b>
 
-
-
-<br>
+<img src="https://media.giphy.com/media/3o85xp2UheCHZNPCbC/giphy.gif" width="40" alt="GIF"><b>Exploring Python and C++<b>
 <br>
 <br>
 <br>
@@ -29,19 +26,20 @@
 <br>
 <br>
 
-<center>
 
-![Cristhian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristhianmt&show_icons=true&&theme=react)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=codeSTACKr"/>
+  </a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianmt&layout=compact&&theme=codeSTACKr"/>
+  </a>
+</p>
 
 <br>
-<br>
 
-<h3 align="left"><img src="https://media.giphy.com/media/mTYkE02mSt9wModGuz/giphy.gif" width="45" alt="GIF"><b>Languages:</b></h3></a>
+<h3 align="left"><img src="https://media.giphy.com/media/lm79UYhHtMhDq/giphy.gif" width="45" alt="GIF"><b>Languages:</b></h3></a>
 <p align="left">
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -51,7 +49,7 @@
 </p>
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/kqglkAIGzMaGt2k8GO/giphy.gif" width="40" alt="GIF"> <b>Tools:</b></h3>
+<h3 align="left"><img src="https://media.giphy.com/media/3o85xJFQ8WcjWeBLoY/giphy.gif" width="40" alt="GIF"> <b>Tools:</b></h3>
 <p align="left"> 
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="bash" width="50" height="50"/> </a> 
