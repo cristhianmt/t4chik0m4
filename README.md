@@ -1,8 +1,9 @@
-
-
+<h1>
+</h1>
 <h1 align="center">
 <b> Hi, I'm Cristhian <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized-large.gif" width="30" alt="GIF">
 </h1>
+
 <br>
 
 <p align="center">
