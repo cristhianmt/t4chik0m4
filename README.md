@@ -36,12 +36,10 @@
 </h2>
 
 + 🚀 **Working on my** [Personal Blog](https://cristhianmt.github.io)
- 
+  
 + 👨‍💻 **I’m currently learning Penetration Testing Studen on** [INE](https://my.ine.com/)
-<br>
 
- + 🌱 **I’m currently practicing CTF Challenge on** [TryHackMe](https://tryhackme.com/p/Bl34k)
-<br>
++ 🌱 **I’m currently practicing CTF Challenge on** [TryHackMe](https://tryhackme.com/p/Bl34k)
 
 + 🔭 **Exploring Python**
 
