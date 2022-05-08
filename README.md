@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
+<img height="290px" width="500px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
 </p>
 <be>
 
@@ -25,7 +25,7 @@
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="images/burp_suite.png" alt="burp suite" width="50" height="50"/></a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="images/wireshark.png" alt="burp suite" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python.png" alt="python" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql.png" alt="mysql" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgresql.png" alt="postgresql" width="50" height="50"/> </a> 
 <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="images/sublime.png" alt="sublime Text" width="50" height="50"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="images/vim.png" alt="vim" width="50" height="50"/> </a>
 <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="images/vmware.png" alt="vmware" width="50" height="50"/> </a>
