@@ -59,7 +59,3 @@
 </p>
 
 
-
-
-
-<iframe src="https://giphy.com/embed/Ii4jfLGmdmWWhcVTG3" width="480" height="474" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/space-planet-orbit-Ii4jfLGmdmWWhcVTG3">via GIPHY</a></p>
