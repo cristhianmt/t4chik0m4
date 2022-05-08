@@ -1,33 +1,52 @@
-<h1>
-</h1>
-<h1 align="center">
-<b> Hi, I'm Cristhian <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif" width="30" alt="GIF">
-</h1>
 
+<h1 align="center">
+<abc>
+  <br><hr><b> Hi, there! <b><img src="https://media.giphy.com/media/Ii4jfLGmdmWWhcVTG3/giphy-downsized.gif" width="30" alt="GIF">
+</abc>
+</h1>
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Student&font=Fira%20Code&center=true&width=380&height=50&color=0EF7F7">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Bebas+Neue&duration=5006&center=true&color=0EF7F7&lines=I'm+Cristhian%2C+Cybersecurity+Student+💻">
 </p>
 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
+<p align="center">
+<img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
+</p>
+<be>
+
+<h2 align="left"> <hr><img src="https://media.giphy.com/media/f4UxNndPLPiMArnqNB/giphy.gif" width="50" alt="GIF">
+<b> Technologies and Tools I use: </b>
+<hr>
+</h2>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="images/bash.png" alt="bash" width="50" height="50"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="images/tux.png" alt="linux" width="50" height="50"/></a>
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="images/burp_suite.png" alt="burp suite" width="50" height="50"/></a>
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="images/wireshark.png" alt="burp suite" width="50" height="50"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="images/python.png" alt="python" width="50" height="50"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="images/sublime.png" alt="sublime Text" width="50" height="50"/> </a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="images/vim.png" alt="vim" width="50" height="50"/> </a>
+<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="images/vmware.png" alt="vmware" width="50" height="50"/> </a>
+</p>
+<br>
+<h2 align="left"><hr><img src="https://media.giphy.com/media/XHLtoiM5aKEuEqFjIe/giphy.gif" width="50" alt="GIF"><b> About Me: </b>
+<hr>
+</h2>
+
++ 🚀 **Working on my** [Personal Blog](https://cristhianmt.github.io)
+ 
++ 👨‍💻 **I’m currently learning Penetration Testing Studen on** [INE](https://my.ine.com/)
+<br>
+
+ + 🌱 **I’m currently practicing CTF Challenge on** [TryHackMe](https://tryhackme.com/p/Bl34k)
+<br>
+
++ 🔭 **Exploring Python**
 
 
-<img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30" alt="GIF"><b> Working on my [Personal Blog](https://cristhianmt.github.io)<b>
 <br>
-
-<img src="https://media.giphy.com/media/yKKMaXHvwXoATvXUls/giphy-downsized-large.gif" width="30" alt="GIF"><b> I’m currently practicing CTF Challenge on [TryHackMe](https://tryhackme.com/p/Bl34k)<b>
-
-<img src="https://media.giphy.com/media/3o85xp2UheCHZNPCbC/giphy.gif" width="30" alt="GIF"><b> Exploring Python and C++<b>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=cristhianmt&&show_icons=true&theme=codeSTACKr"/>
@@ -38,24 +57,5 @@
   </a>
 </p>
 
-<br>
-
-<h3 align="left"><img src="https://media.giphy.com/media/lm79UYhHtMhDq/giphy.gif" width="30" alt="GIF"><b>Languages:</b></h3></a>
-<p align="left">
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="30"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="python" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-</p>
-
-<br>
-<h3 align="left"><img src="https://media.giphy.com/media/3o85xJFQ8WcjWeBLoY/giphy.gif" width="30" alt="GIF"> <b>Tools:</b></h3>
-<p align="left"> 
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="bash" width="50" height="50"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-</p>
 
 
