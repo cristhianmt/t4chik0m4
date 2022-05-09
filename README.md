@@ -38,7 +38,7 @@
   
 + 🚀 **Working on my** [Personal Blog](https://cristhianmt.github.io)
   
-+ 👨‍💻 **I’m currently learning Penetration Testing Studen on** [INE](https://my.ine.com/)
++ 👨‍💻 **I’m currently learning Penetration Testing Student on** [INE](https://my.ine.com/)
 
 + 🌱 **I’m currently practicing CTF Challenge on** [TryHackMe](https://tryhackme.com/p/Bl34k)
 
