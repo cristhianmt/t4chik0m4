@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img height="290px" width="500px" alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
+<img  alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
 </p>
 <be>
 <h2></h2>
