@@ -7,8 +7,10 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Bebas+Neue&duration=5006&center=true&color=0EF7F7&lines=I'm+Cristhian%2C+Cybersecurity+Student+💻">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Bebas+Neue&duration=5006&center=true&color=1BFF21&lines=I'm+Cristhian%2C+Cybersecurity+Student+💻">
 </p>
+
+
 
 <p align="center">
 <img  alt="GIF" src="https://media.giphy.com/media/6utNxL2fGvEL5tFBZr/giphy.gif">
@@ -35,14 +37,18 @@
  <h2></h2>
 <h2 align="left"><img src="https://media.giphy.com/media/XHLtoiM5aKEuEqFjIe/giphy.gif" width="60" alt="GIF"><b> About Me: </b></h2>
 
-  
-+ 🚀 **Working on my** [Personal Blog](https://cristhianmt.github.io)
+**I am a cybersecurity student and capture the flag player.** 
+
++ 🚀 **Check out my** [Blog](https://cristhianmt.github.io)
   
 + 👨‍💻 **I’m currently learning Penetration Testing Student on** [INE](https://my.ine.com/)
 
-+ 🌱 **I’m currently practicing CTF Challenge on** [TryHackMe](https://tryhackme.com/p/Bl34k)
++ 🔭 **Exploring Python and C ++**
 
-+ 🔭 **Exploring Python**
++ 🌱 **I’m currently practicing CTF Challenge on TryHackMe**
+
+     <img src="https://tryhackme-badges.s3.amazonaws.com/Bl34k.png" alt="TryHackMe">
+
 
 
 <br>
