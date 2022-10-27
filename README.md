@@ -48,9 +48,9 @@
 + 🌱 **I’m currently practicing CTF Challenge on TryHackMe**
 
      <img src="https://tryhackme-badges.s3.amazonaws.com/Bl34k.png" alt="TryHackMe">
+     <img src="https://www.hackthebox.com/badge/image/622084" alt="HackTheBox">
 
-
-
+    
 <br>
 <p align="center" >
 <a> 
