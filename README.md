@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Bebas+Neue&duration=5006&center=true&color=1BFF21&lines=I'm+Cristhian%2C+Cybersecurity+Student+💻">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&font=Bebas+Neue&duration=5006&center=true&color=1BFF21&lines=I'm+T4chik0m4%2C+Cybersecurity+Student+✌️👽">
 </p>
 
 
